@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnupriya C</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer </h3>
 
 <img align="right" alt="Coding" width="600" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
