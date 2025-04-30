@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="600" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 
-- 🌱 I’m currently learning in **GUVI Institute**
+- 🌱 I’m a **MERN FULLSTACK DEVELOPER**
 
 - 💬 Ask me about **
 Javascript
